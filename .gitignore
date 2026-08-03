@@ -1,0 +1,8 @@
+node_modules
+*.local
+.DS_Store
+.idea
+.vscode
+.pnpm-store
+dev.log
+dev.err.log
